@@ -11,3 +11,4 @@ ta
 statsmodels
 patsy
 empyrical
+tensorflow
